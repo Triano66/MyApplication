@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!--<string name="default_web_client_id" /> -->
+    <string name="twitter_consumer_key" translatable="false">SwvegfjkbLXy0NCcCBsfJPZwD</string>
+    <string name="twitter_consumer_secret" translatable="false">UDcSczfWjyY2JnSUtp95sb90vHMbtXA1UILK2fJzvcKNEOccJY</string>
+</resources>
